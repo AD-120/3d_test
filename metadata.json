@@ -1,0 +1,6 @@
+{
+  "name": "Monolith 1-Bit Virtual Tour",
+  "description": "Interactive 3D first-person virtual tour around a faceted rock sculpture rendered with a custom Three.js 1-bit Bayer dither shader and dynamic lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
